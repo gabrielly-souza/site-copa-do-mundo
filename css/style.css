@@ -1,0 +1,15 @@
+@font-face{
+	font-family: PlayfairDisplaySC;
+	src: url(../fonts/PlayfairDisplaySC/PlayfairDisplaySC-Black.ttf);
+}
+
+.logo{
+	font-family: PlayfairDisplaySC;
+	font-size: 4rem;
+	color: var(--bs-green); /*usando variavel do documento root*/
+}
+
+.carousel-caption{
+	background-color: rgba(0,0,0,0.7);
+	color:  #FFFFFF !important;
+}
